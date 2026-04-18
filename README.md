@@ -16,6 +16,8 @@ I am a passionate Web3 Developer with a strong focus on **Layer 1 Blockchain** a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Move](https://img.shields.io/badge/Move-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
 
 ### 📈 Currently Working On
 * 🏗️ Building a **Car Rental System** using Java (Academic Project).
