@@ -1,4 +1,4 @@
-# Hi there, I'm Vallens! 👋
+# Hi there, I'm Vallens!
 
 ### Web3 Developer | Blockchain Enthusiast | Informatics Student
 
