@@ -22,7 +22,7 @@ I am a passionate Web3 Developer with a strong focus on **Layer 1 Blockchain** a
 ###  Currently Working On
 *  Building a **Car Rental System** using Java (Academic Project).
 *  Developing a **Personal AI Trading Agent** using Python and CCXT.
-*  Mastering **Mandarin Chinese** (HSK 1) **English**.
+*  Mastering **Mandarin Chinese** (HSK 1) and **English**
 
 ###  Let's Connect!
 * **Learning:** Always open to discussing Blockchain Layers (0-3) and Web3 scalability.
