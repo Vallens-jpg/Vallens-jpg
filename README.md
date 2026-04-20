@@ -26,7 +26,7 @@ I am a passionate Web3 Developer with a strong focus on **Layer 1 Blockchain** a
 
 ###  Let's Connect!
 * **Learning:** Always open to discussing Blockchain Layers (0-3) and Web3 scalability.
-* **Goal:** Aiming for a fully funded scholarship in China for 2027/2028.
+* **Goal:** Building an Startup focused and based on Blockchain technology
 
 ---
 
